@@ -1,11 +1,8 @@
 package org.example.animals.entities;
 
-import org.springframework.stereotype.Component;
-
 /**
  * @author Denis Zolotarev
  */
-@Component
 public class Cat {
     private String name = "Мурзик";
 
